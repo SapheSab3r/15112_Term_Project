@@ -8,4 +8,4 @@ This is the term project for CMU 15-112: Fundamentals of Programming. In this TP
 
 ## How to Play
 
-
+Download the second folder called "Term Project", and there are two py files: "Plants vs Zombies" (the main game file) and "Night-level". Once you have downloaded the folder, ensure to open the entire folder using VScode, and hit the Play button on VSCode on the "Plants vs Zombies" py file. Hope you enjoy this game!
